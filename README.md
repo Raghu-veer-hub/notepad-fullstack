@@ -1,6 +1,3 @@
-Thanks for providing the frontend structure as well! Here’s an updated README that includes both the **Django** backend and **React.js** frontend for your **DigiNotes** project, based on the provided directory structure.
-
----
 
 # NotePad App (Django & React)
 
